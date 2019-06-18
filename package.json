@@ -1,0 +1,23 @@
+{
+  "name": "uint64le",
+  "version": "0.0.0",
+  "description": "Encode / decode little endian unsigned 64 bit integers",
+  "main": "index.js",
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "tape": "^4.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/uint64le.git"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/uint64le/issues"
+  },
+  "homepage": "https://github.com/mafintosh/uint64le"
+}
