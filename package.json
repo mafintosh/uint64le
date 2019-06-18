@@ -1,6 +1,6 @@
 {
   "name": "uint64le",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Encode / decode little endian unsigned 64 bit integers",
   "main": "index.js",
   "devDependencies": {
